@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+
+ul li{
+    display: inline-block;
+    margin: 5px;
+        
+}
+.listItems{
+    color: rgb(63, 12, 158);
+    background-color: darkblue;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(238, 22, 173);
+}
+
+#firstItem{
+    background-color: rgb(142, 165, 10);
+    color: darkorchid;
+}
+
+
+.listItems{
+    background-color: chartreuse;
+}
+
+body{
+    background-color: rgb(65, 170, 202);
+} 
