@@ -1,56 +1,6 @@
 'use strict';
 
-// comments for one line 
 
-/* 
-for multible lines of comments
-Data types:
--String
-is something data instide " " ,' '
--Number
-2.3 float, 3 integer 
--boolean
-true or flase
-*/
-
-
-// let userName='Alla';
-// let age =prompt('write your age');
-
-// console.log(age);
-// console.log(type of age);
-
-// change data type of prompt from string to number
-
-// age = Number(age);
-
-// age = parseInt(age);
-
-// console.log(age);
-
-// console.log('after Number',typeof age );
-
-
-/* if(condition is true){
-    do this
-} else{
-    do this if ondition is false
-}
-=== datatype and the value
-== value
-*/
-// let gender =prompt('write you\'re grnder'); 
-// if(gender === girl); 
-// {
-//     alert('hello ms');
-// }
-// // else if(gender !== girl){
-// //     alert('welcome')
-// }else{
-//     alert('go away you\'re not human');
-// // }
-// console.log(gender);
-// alert(gender);
 let book=confirm('it was good?')
 console.log(book);
 
