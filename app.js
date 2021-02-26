@@ -152,7 +152,8 @@ for (let i = 4; i < 8; i++) {
     question7 = parseInt(question7)
 
     console.log(typeof question7);
-
+    
+    
     if (question7 === correctNumber) {
         alert('good job');
         score++;
